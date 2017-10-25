@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Thomas Lo Russo",
+    "label": "21th century public servant",
+    "picture": "",
+    "email": "th.lorusso@gmail.com",
+    "phone": "+41 078 631 83 57",
+    "website": "https://www.politan.ch",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Oberwil-Lieli",
+      "countryCode": "Switzerland",
+      "region": "Aargau"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "thlorusso",
+        "url": "https://twitter.com/thlorusso"
+      },
+      {
+        "network": "linkedin",
+        "username": "thomaslorusso",
+        "url": "https://www.linkedin.com/in/thomaslorusso/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Statistical Office of the Canton of Zurich",
+      "position": "Scientific collaborator",
+      "website": "https://www.statistik.zh.ch",
+      "startDate": "01.10.2016",
+      "endDate": "",
+      "summary": "As a scientific collaborator at the Statistical Office (Datashop) I fulfil multiple tasks: ",
+      "highlights": [
+        "Extraction, manipulation and analysis of data across all domains of official government statistics. This implies daily usage of R and SQL.",
+        "Creation of both static and interactive data visualizations for the office's website or external customers",
+        "Providing support to users of official publicly accessible databases (regional, national and also EUROSTAT)"
+      ]
+    },
+    {
+      "company": "Statistical Office of the Canton of Zurich",
+      "position": "Intern",
+      "website": "",
+      "startDate": "01.09.2015",
+      "endDate": "01.09.2016",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "politan.ch",
+      "position": "co-owner",
+      "website": "https://www.politan.ch",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "SAP (Switzerland) AG",
+      "position": "Inside Marketing Executive",
+      "website": "https://www.sap.com",
+      "startDate": "01.04.2009",
+      "endDate": "01.08.2015",
+      "summary": "Daily interaction with customers and prospects, positioning of SAP solutions & services fitting their needs.",
+      "highlights": []
+    },
+    {
+      "company": "University of Zurich",
+      "position": "Tutor, International Relations & International Political Economy",
+      "website": "www.uzh.ch",
+      "startDate": "01.01.2014",
+      "endDate": "01.06.2015",
+      "summary": "Tutor at the Chair of International Relations and International Political Economy. Holding classes to improve undergraduate students writing skills and their understanding of International Relations Theory. Correction of papers & exams.",
+      "highlights": []
+    },
+    {
+      "company": "University of Zurich",
+      "position": "Research Assistant, Department of Political Science",
+      "website": "https://www.uzh.ch",
+      "startDate": "01.07.2012",
+      "endDate": "01.08.2013",
+      "summary": "Research on European Regulatory Agencies in the areas of telecommunication, financial services, competition and energy.",
+      "highlights": []
+    },
+    {
+      "company": "University of Zurich",
+      "position": "Research Assistant, Institute of Mass Communication and Media Research",
+      "website": "https://www.uzh.ch",
+      "startDate": "01.05.2011",
+      "endDate": "01.11.2011",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Zurich",
+      "area": "Political Science, Track: Political Economy and Philosophy",
+      "studyType": "Master of Arts in Social Sciences",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Zurich",
+      "area": "Political Science & Chinese Studies",
+      "studyType": "Bachelor of Arts in Social Sciences",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming & Data Science",
+      "level": "Master",
+      "keywords": [
+        "R (advanced)",
+        "SQL (advanced)",
+        "Javascript (basics)",
+        "CSS & HTML (basics)"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Proficient speaker"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Proficient speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Datascience, Blog-posting, piano, streetart"
+      ]
+    }
+  ],
+  "references": []
+}
